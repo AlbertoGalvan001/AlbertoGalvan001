@@ -1,5 +1,11 @@
-### Hi there 👋
+# Hi there, I'm Alberto Galvan 👋🤓
 
+I'm a relatively new sofware engineer with previous experience as an acupuncture physician. My background in chinese medicine has helped me solve complex problems by helping me differentiate obstacles using primary, secondary and tertiary concerns. I'm currently working on building a dedicated team of full stack software engineers for my new company DevShop24. Lets build some cool stuff!!!
+
+## Find me on the web 💯
+
+- Public profile on <a href="https://www.linkedin.com/in/alberto-galvan-636688195/">LinkedIn</a>
+- Access my page on <a href="https://www.facebook.com/alberto.galvan.35">FaceBook</a> 
 <!--
 **AlbertoGalvan001/AlbertoGalvan001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
